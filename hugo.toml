@@ -1,0 +1,8 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "Knowledge"
+theme = "PaperMod"
+
+[params]
+  ShowReadingTime = false
+  ShowShareButtons = false
